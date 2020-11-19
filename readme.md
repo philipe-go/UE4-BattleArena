@@ -7,7 +7,7 @@
     Remark: The game spawns enemies after 10 seconds if there is no enemy on the arena. A counter will be displayed showing when the next enemy will be spawned.
     if the player dies a menu will appear giving the option to retry or quit.
 
-## Control:
+:video_game: ## Control:
 
 - #### AWSD
 move the player
@@ -18,7 +18,7 @@ move the player
 - left ctrl - use health potion
 - space bar - roll  
 
-## Tasks
+:notebook: ## Tasks
 
 ### Task 1
 
