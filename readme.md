@@ -9,8 +9,7 @@
 
 ## Control :video_game: 
 
-- #### AWSD
-move the player
+- AWSD - move the player
 - Left mouse button - melee attack
 - Right mouse button - cast current magic
 - Q | 1 & E | 2 - cast the magic and change current magic
