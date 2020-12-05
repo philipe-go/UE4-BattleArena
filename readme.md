@@ -63,7 +63,7 @@
 ### Task 8
 
 - #### Task: Done
-- #### Bonus: Implemented but not working properly - node connection removed to avoid bugs
+- #### Bonus: Implemented but decided to be removed as does not fit the game concept - node connection removed to avoid bugs
 
 ### Task 9
 
@@ -78,6 +78,8 @@
     Remark: There are 4 health potions on the arena and the enemy spawns a MP potion when dead. 
     The MP potion recovers MP when triggered. The player also recovers MP when he hits the enemy with a melee attack.
     The health potion is add to the inventory when triggered.
+    
+    <p align="center><img src="./media/AutoScreenshot.png" width="50%" height="50%"></p>
     
 
 
