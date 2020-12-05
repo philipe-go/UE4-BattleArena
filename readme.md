@@ -6,6 +6,11 @@
 
     Remark: The game spawns enemies after 10 seconds if there is no enemy on the arena. A counter will be displayed showing when the next enemy will be spawned.
     if the player dies a menu will appear giving the option to retry or quit.
+    
+    
+        <p align="center"><img src="./Media/AutoScreenshot.png" width="50%" height="50%"></p>
+        
+        
 
 ## Control :video_game: 
 
@@ -79,7 +84,7 @@
     The MP potion recovers MP when triggered. The player also recovers MP when he hits the enemy with a melee attack.
     The health potion is add to the inventory when triggered.
     
-    <p align="center"><img src="./Media/AutoScreenshot.png" width="50%" height="50%"></p>
+
     
 
 
