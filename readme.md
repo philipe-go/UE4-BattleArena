@@ -79,7 +79,7 @@
     The MP potion recovers MP when triggered. The player also recovers MP when he hits the enemy with a melee attack.
     The health potion is add to the inventory when triggered.
     
-    <p align="center><img src="./Media/AutoScreenshot.png" width="50%" height="50%"></p>
+    <p align="center"><img src="./Media/AutoScreenshot.png" width="50%" height="50%"></p>
     
 
 
