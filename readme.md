@@ -1,4 +1,4 @@
-# GAME ENGINE III - Assignment II
+<h1 align="center> GAME ENGINE III - Assignment II </h1>
 
 ## Assignment 2 of Game Engine 3 
 
